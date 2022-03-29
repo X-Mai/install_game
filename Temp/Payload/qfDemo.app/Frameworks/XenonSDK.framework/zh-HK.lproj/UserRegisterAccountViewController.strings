@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "已有帳號登入"; ObjectID = "AhJ-82-GAZ"; */
+"AhJ-82-GAZ.normalTitle" = "已有帳號登入";
+
+/* Class = "UILabel"; text = "帳號注册"; ObjectID = "DkG-ZG-Ndo"; */
+"DkG-ZG-Ndo.text" = "帳號注册";
+
+/* Class = "UITextField"; placeholder = "請輸入密碼"; ObjectID = "IkS-Zn-mLF"; */
+"IkS-Zn-mLF.placeholder" = "請輸入密碼";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "kF6-aw-wrH"; */
+"kF6-aw-wrH.normalTitle" = "注册";
+
+/* Class = "UITextField"; placeholder = "請輸入帳號"; ObjectID = "lYY-jT-3jJ"; */
+"lYY-jT-3jJ.placeholder" = "請輸入帳號";

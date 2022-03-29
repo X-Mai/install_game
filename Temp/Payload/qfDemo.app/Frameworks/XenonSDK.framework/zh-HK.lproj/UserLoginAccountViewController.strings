@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "請輸入帳號"; ObjectID = "IqT-IR-tqr"; */
+"IqT-IR-tqr.placeholder" = "請輸入帳號";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "Jgs-QE-ZpT"; */
+"Jgs-QE-ZpT.normalTitle" = "登入";
+
+/* Class = "UIButton"; normalTitle = "註冊帳號"; ObjectID = "YRO-5I-cFt"; */
+"YRO-5I-cFt.normalTitle" = "註冊帳號";
+
+/* Class = "UIButton"; normalTitle = "忘記密碼"; ObjectID = "l3Y-g5-p5u"; */
+"l3Y-g5-p5u.normalTitle" = "忘記密碼";
+
+/* Class = "UILabel"; text = "注册/登入"; ObjectID = "mpI-ew-u20"; */
+"mpI-ew-u20.text" = "注册/登入";
+
+/* Class = "UITextField"; placeholder = "請輸入密碼"; ObjectID = "vDo-ez-pei"; */
+"vDo-ez-pei.placeholder" = "請輸入密碼";

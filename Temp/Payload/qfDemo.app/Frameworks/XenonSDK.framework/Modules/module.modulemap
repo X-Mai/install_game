@@ -1,0 +1,6 @@
+framework module XenonSDK {
+  umbrella header "XenonSDK.h"
+
+  export *
+  module * { export * }
+}

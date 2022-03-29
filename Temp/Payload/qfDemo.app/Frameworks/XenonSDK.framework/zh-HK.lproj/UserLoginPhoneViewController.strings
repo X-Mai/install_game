@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = ">>>遊客登錄<<<"; ObjectID = "AFa-9s-BcH"; */
+"AFa-9s-BcH.normalTitle" = ">>>遊客登錄<<<";
+
+/* Class = "UILabel"; text = "您的遊客帳號為:"; ObjectID = "JZy-aC-Z3c"; */
+"JZy-aC-Z3c.text" = "您的遊客帳號為:";
+
+/* Class = "UILabel"; text = "注册/登入"; ObjectID = "Q3Y-gX-Hcy"; */
+"Q3Y-gX-Hcy.text" = "注册/登入";
+
+/* Class = "UIButton"; normalTitle = "用戶隱私協定"; ObjectID = "Wp2-at-aYn"; */
+"Wp2-at-aYn.normalTitle" = "用戶隱私協定";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nNE-eC-UzG"; */
+"nNE-eC-UzG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "您的遊客密碼為"; ObjectID = "nfb-B6-LJm"; */
+"nfb-B6-LJm.text" = "您的遊客密碼為";
+
+/* Class = "UILabel"; text = "Facebook登入"; ObjectID = "sZA-c3-Wf3"; */
+"sZA-c3-Wf3.text" = "Facebook登入";
+
+/* Class = "UILabel"; text = "請選擇登入管道"; ObjectID = "si4-M9-Vwy"; */
+"si4-M9-Vwy.text" = "請選擇登入管道";
