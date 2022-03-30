@@ -1,8 +1,9 @@
 # install_game
-调试ipa真机运行启动崩溃、以及运行过程中崩溃工具
 
 
-工具使用说明：
+##工具使用说明：
+
+
 1.使用xcode打开install_game工程
 2.将需要找报错原因的ipa(ipa安装手机后启动闪退、运行过程中闪退)放入到app目录
 <img width="469" alt="1" src="https://user-images.githubusercontent.com/19405301/160778640-03a32884-f8df-4e3e-b1b4-0da07c82b1a0.png">
